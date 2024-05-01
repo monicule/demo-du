@@ -61,3 +61,6 @@ git commit
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+EMOJI
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
