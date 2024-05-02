@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "bandau": "node --watch ./bandau.js",
     "dev": "node --watch ./index.js",
    "number": "node --watch number.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Monika",
   "license": "ISC"
 }
